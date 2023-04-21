@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gloock&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <title>Moscu</title>
+</head>
+<body>
+    <div class="wrapper">
+        <aside>
+            <header>
+                <div id="logo">
+                    <img src="img/moscu.png" alt="moscu logo">
+                </div>
+            </header>
+            <nav>
+                <ul>
+                    <li><button id="todos" class="button-category active"><i class="bi bi-shop"></i> Productos</button></li>
+                    <li><button id="correas" class="button-category">Correas</button></li>
+                    <li><button id="vestimenta" class="button-category">Vestimenta</button></li>
+                    <li><button id="comederos" class="button-category">Comederos</button></li>
+                    <li><button id="camas" class="button-category">Camas</button></li>
+                    <li><button id="juguetes" class="button-category">Juguetes</button></li>
+                    <li><a id="envios" href="envios.html" class="button-category"><i class="bi bi-box-seam"></i> Envíos</a></li>
+                    <li><a class="button-carrito" href="carrito.html"><i class="bi bi-cart3"></i> Carrito<span class="number"></span></a></li>
+                </ul>
+            </nav>
+            <footer>
+                <h3 class="text-footer">Copyright © 2023 Magali Lascano 🖤</h3>
+            </footer>
+        </aside>
+        <main>
+            <h1 class="main-title" id="main-title">Todos los productos</h1>
+            <div id="misprods" class="row card col-sm-2">
+                <!-- Aqui los productos -->
+            </div>
+<!-- La idea es que quede así: -->
+            <!-- <div class="product-container">
+                <div class="product">
+                    <img class="product-img" src="img/correas/pretal 2.jpg" alt="">
+                    <div>
+                        <h3 class="product-title">Correa y pretal 02</h3>
+                        <p class="product-price">$2000</p>
+                        <button class="product-add">Agregar</button>
+                    </div>
+                </div>
+            </div> -->
+        </main>
+    </div>
+    <script src="javascript/code.js"></script>
+</body>
+</html>

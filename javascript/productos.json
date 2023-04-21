@@ -1,0 +1,363 @@
+[
+    {
+        "id": 1,
+        "foto": "./img/camas/camabeige.jpg",
+        "nombre": "Cama 1",
+        "categoria": { 
+            "nombre":"Camas", 
+            "id":"camas"
+        },
+        "precio": 14999
+},
+{
+    "id": 2,
+    "foto": "./img/camas/camaazul.jpg",
+    "nombre": "Cama 2",
+    "categoria": { 
+        "nombre":"Camas", 
+        "id":"camas"
+    },
+    "precio": 16900
+},
+{
+    "id": 3,
+    "foto": "./img/camas/camaceleste.jpg",
+    "nombre": "Cama 3",
+    "categoria": { 
+        "nombre":"Camas", 
+        "id":"camas"
+    },
+    "precio": 16300
+},
+{
+    "id": 4,
+    "foto": "./img/camas/camanegra.jpg",
+    "nombre": "Cama 4",
+    "categoria": { 
+        "nombre":"Camas", 
+        "id":"camas"},
+    "precio": 14000
+},
+{
+    "id": 5,
+    "foto": "./img/comederos/acero.jpg",
+    "nombre": "Comedero 1",
+    "categoria": { 
+        "nombre":"Comederos", 
+        "id":"comederos"
+    },
+    "precio": 5000
+},
+{
+    "id": 6,
+    "foto": "./img/comederos/doblealtura.jpg",
+    "nombre": "Comedero 2",
+    "categoria": { 
+        "nombre":"Comederos", 
+        "id":"comederos"
+    },
+    "precio": 7800
+},
+{
+    "id": 7,
+    "foto": "./img/comederos/comnegro.jpg",
+    "nombre": "Comedero 3",
+    "categoria": { 
+        "nombre":"Comederos", 
+        "id":"comederos"
+    },
+    "precio": 6700
+},
+{
+    "id": 8,
+    "foto": "./img/comederos/huesito.jpg",
+    "nombre": "Comedero 4",
+    "categoria": { 
+        "nombre":"Comederos", 
+        "id":"comederos"
+    },
+    "precio": 6200
+},
+{
+    "id": 9,
+    "foto": "./img/correas/colores.jpg",
+    "nombre": "Correas colores",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 6000
+},
+{
+    "id": 10,
+    "foto": "./img/correas/corelastizada.jpg",
+    "nombre": "Correa Elastica",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 12600
+},
+{
+    "id": 11,
+    "foto": "./img/correas/colbeige.jpg",
+    "nombre": "Collar 1",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 9600
+},
+{
+    "id": 12,
+    "foto": "./img/correas/cork9.jpg",
+    "nombre": "Correa K9",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 12400
+},
+{
+    "id": 13,
+    "foto": "./img/correas/cornatcan.jpg",
+    "nombre": "Correa NatCan negra",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 10200
+},
+{
+    "id": 14,
+    "foto": "./img/correas/cornatcanroja.jpg",
+    "nombre": "Correa NatCan roja",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 10200
+},
+{
+    "id": 15,
+    "foto": "./img/correas/correforzada.jpg",
+    "nombre": "Correa Reforzada",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 12400
+},
+{
+    "id": 16,
+    "foto": "./img/correas/pretk9militar.jpg",
+    "nombre": "Pretal K9",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 9000
+},
+{
+    "id": 17,
+    "foto": "./img/correas/pretnatcan.jpg",
+    "nombre": "Pretal NatCan",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 3700
+},
+{
+    "id": 18,
+    "foto": "./img/correas/pretnegro.jpg",
+    "nombre": "Pretal Negro",
+    "categoria": { 
+        "nombre":"Correas", 
+        "id":"correas"
+    },
+    "precio": 5200 
+},
+{
+    "id": 19,
+    "foto": "./img/juguetes/animales.jpg",
+    "nombre": "Peluches Animales",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 4000
+},
+{
+    "id": 20,
+    "foto": "./img/juguetes/cuerda1.jpg",
+    "nombre": "Cuerda 1",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 3600
+},
+{
+    "id": 21,
+    "foto": "./img/juguetes/cuerda2.jpg",
+    "nombre": "Cuerda 2",
+    "categoria": { 
+        "nombre":"Juguetes ", 
+        "id":"juguetes"
+    },
+    "precio": 3600
+},
+{
+    "id": 22,
+    "foto": "./img/juguetes/mordillovarios.jpg",
+    "nombre": "Cuerda 3",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 3770
+},
+{
+    "id": 23,
+    "foto": "./img/juguetes/frisbee.jpg",
+    "nombre": "Frisbee",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 3300
+},
+{
+    "id": 24,
+    "foto": "./img/juguetes/kong.jpg",
+    "nombre": "Kong Rellenable",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 4700
+},
+{
+    "id": 25,
+    "foto": "./img/juguetes/morcolores.jpg",
+    "nombre": "Mordillo 1",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 2700
+},
+
+{
+    "id": 26,
+    "foto": "./img/juguetes/morestrella.jpg",
+    "nombre": "Mordillo Estrella",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 2600
+},
+{
+    "id": 27,
+    "foto": "./img/juguetes/pelotacolores.jpg",
+    "nombre": "Pelota Colores",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 1200
+},
+{
+    "id": 28,
+    "foto": "./img/juguetes/pelotahuella.jpg",
+    "nombre": "Pelota Rellenable Negra",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 1390
+},
+{
+    "id": 29,
+    "foto": "./img/juguetes/pelotarayas.jpg",
+    "nombre": "Pelota Rayada",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 1200
+},
+{
+    "id": 30,
+    "foto": "./img/juguetes/pelotarellenable.jpg",
+    "nombre": "Pelota Rellenable Naranja",
+    "categoria": { 
+        "nombre":"Juguetes", 
+        "id":"juguetes"
+    },
+    "precio": 1270
+},
+{
+    "id": 31,
+    "foto": "./img/vestimenta/abrigogris.jpg",
+    "nombre": "Abrigo Gris",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio": 3090
+},
+{
+    "id": 32,
+    "foto": "./img/vestimenta/abrigonegro.jpg",
+    "nombre": "Abrigo Negro",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio": 3120
+},
+{
+    "id": 33,
+    "foto": "./img/vestimenta/abrigotravel.jpg",
+    "nombre": "Abrigo Travel",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio":3200 
+},
+{
+    "id": 34,
+    "foto": "./img/vestimenta/piloto.jpg",
+    "nombre": "Piloto",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio": 4600
+},
+{
+    "id": 35,
+    "foto": "./img/vestimenta/botasprotectoras.jpg",
+    "nombre": "Botas Protectoras x4",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio": 4500
+},
+{
+    "id": 36,
+    "foto": "./img/vestimenta/quitapelusa.jpg",
+    "nombre": "Quita Pelusa",
+    "categoria": { 
+        "nombre":"Vestimenta", 
+        "id":"vestimenta"
+    },
+    "precio": 2400
+}
+]
+

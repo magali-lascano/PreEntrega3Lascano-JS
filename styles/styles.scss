@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Rubik&display=swap');
+
+:root {
+    --clr-main: #535353;
+    --clr-main-light: #9db6c3;
+    --clr-white: #ffffff;
+    --clr-gray: #b2b2b2;
+    --clr-red: #ffc0c0;
+    --clr-txt: #000000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea {
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: var(--clr-gray);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#logo img {
+    height: 150px;
+}
+
+@import 'header.scss';
+@import 'home.scss';
+@import 'carrito.scss';
